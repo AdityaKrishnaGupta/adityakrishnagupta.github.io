@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/adityakrishnagupta.github.io/static/css/main.376b3ba5.chunk.css",
+    "main.js": "/adityakrishnagupta.github.io/static/js/main.c9c2d0b4.chunk.js",
+    "main.js.map": "/adityakrishnagupta.github.io/static/js/main.c9c2d0b4.chunk.js.map",
+    "runtime-main.js": "/adityakrishnagupta.github.io/static/js/runtime-main.8b1231da.js",
+    "runtime-main.js.map": "/adityakrishnagupta.github.io/static/js/runtime-main.8b1231da.js.map",
+    "static/js/2.465cb5bc.chunk.js": "/adityakrishnagupta.github.io/static/js/2.465cb5bc.chunk.js",
+    "static/js/2.465cb5bc.chunk.js.map": "/adityakrishnagupta.github.io/static/js/2.465cb5bc.chunk.js.map",
+    "index.html": "/adityakrishnagupta.github.io/index.html",
+    "precache-manifest.6bbf5bcdbaa8bc99499e33e56a24897e.js": "/adityakrishnagupta.github.io/precache-manifest.6bbf5bcdbaa8bc99499e33e56a24897e.js",
+    "service-worker.js": "/adityakrishnagupta.github.io/service-worker.js",
+    "static/css/main.376b3ba5.chunk.css.map": "/adityakrishnagupta.github.io/static/css/main.376b3ba5.chunk.css.map",
+    "static/js/2.465cb5bc.chunk.js.LICENSE.txt": "/adityakrishnagupta.github.io/static/js/2.465cb5bc.chunk.js.LICENSE.txt",
+    "static/media/body.svg": "/adityakrishnagupta.github.io/static/media/body.382bcb41.svg",
+    "static/media/logo.svg": "/adityakrishnagupta.github.io/static/media/logo.7aec47e8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b1231da.js",
+    "static/js/2.465cb5bc.chunk.js",
+    "static/css/main.376b3ba5.chunk.css",
+    "static/js/main.c9c2d0b4.chunk.js"
+  ]
+}
