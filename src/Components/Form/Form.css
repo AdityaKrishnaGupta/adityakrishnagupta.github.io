@@ -1,0 +1,12 @@
+.forms {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+iframe {
+  margin-bottom: 50px;
+}
+/*# sourceMappingURL=Form.css.map */

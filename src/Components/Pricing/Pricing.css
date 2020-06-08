@@ -1,0 +1,111 @@
+.pricing-cards {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin-bottom: 10vh;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+}
+
+.pricing-card {
+  height: 325px;
+  width: 275px;
+  margin-bottom: 40px;
+  border-radius: 8px;
+  -webkit-box-shadow: 5px 10px 8px 3px #eee;
+          box-shadow: 5px 10px 8px 3px #eee;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.pricing-card:hover {
+  -webkit-transform: translateY(-1.4em);
+          transform: translateY(-1.4em);
+  -webkit-transition: ease 0.8s;
+  transition: ease 0.8s;
+}
+
+.best {
+  height: 375px;
+  width: 275px;
+  margin-bottom: 40px;
+  border-radius: 8px;
+}
+
+.pack-background {
+  width: 275px;
+  height: 60px;
+  background-color: #eee;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.pack-name {
+  padding: 0px;
+  text-align: center;
+  margin: 0px;
+  line-height: 60px;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.9);
+}
+
+.pack-details {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.price {
+  font-size: 3em;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.month {
+  font-size: 0.3em;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.master {
+  font-size: 1.7em;
+  margin-top: 10px;
+}
+
+.pack-points {
+  list-style-type: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 0px;
+}
+
+.pack-point {
+  line-height: 2em;
+}
+/*# sourceMappingURL=Pricing.css.map */

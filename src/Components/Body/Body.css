@@ -1,0 +1,43 @@
+.body-heading {
+  text-align: center;
+  font-size: 3em;
+  color: rgba(0, 0, 0, 0.8);
+  margin-bottom: 10vh;
+}
+
+.semi-body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.body-illus-image {
+  width: 300px;
+  height: 50vh;
+}
+
+.list-items {
+  margin-bottom: 30px;
+}
+
+.market-points {
+  list-style-type: circle;
+}
+
+.market-point {
+  line-height: 2.4em;
+  font-size: 1.2em;
+}
+
+.division {
+  background-color: black;
+}
+/*# sourceMappingURL=Body.css.map */

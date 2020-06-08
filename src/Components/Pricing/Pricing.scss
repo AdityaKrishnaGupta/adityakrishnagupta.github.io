@@ -1,0 +1,80 @@
+.pricing-cards {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	margin-bottom: 10vh;
+	align-items: flex-end;
+}
+
+.pricing-card {
+	height: 325px;
+	width: 275px;
+	margin-bottom: 40px;
+	border-radius: 8px;
+	box-shadow: 5px 10px 8px 3px #eee;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.pricing-card:hover {
+	transform: translateY(-1.4em);
+	transition: ease 0.8s;
+}
+
+.best {
+	height: 375px;
+	width: 275px;
+	margin-bottom: 40px;
+	border-radius: 8px;
+}
+
+.pack-background {
+	width: 275px;
+	height: 60px;
+	background-color: #eee;
+	border-radius: 8px 8px 0px 0px;
+}
+
+.pack-name {
+	padding: 0px;
+	text-align: center;
+	margin: 0px;
+	line-height: 60px;
+	font-weight: 400;
+	color: rgba(0, 0, 0, 0.9);
+}
+
+.pack-details {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.price {
+	font-size: 3em;
+	margin-top: 10px;
+	text-align: center;
+}
+.month {
+	font-size: 0.3em;
+	font-weight: 500;
+	color: rgba(0, 0, 0, 0.6);
+}
+
+.master {
+	font-size: 1.7em;
+	margin-top: 10px;
+}
+
+.pack-points {
+	list-style-type: none;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 0px;
+}
+
+.pack-point {
+	line-height: 2em;
+}
